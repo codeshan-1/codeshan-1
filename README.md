@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?width=500&lines=%5B%7B%22text%22%3A%22Hi%2C+I%27m+CodeShan+%F0%9F%91%8B%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Front-end+Developer%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Building+User-Centric+Experiences%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%5D" alt="Typing SVG" />
+<img src="https://typingsvg.vercel.app/api/svg?width=500&lines=%5B%7B%22text%22%3A%22Hi%2C+I%27m+CodeShan+%F0%9F%91%8B%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Front-end+Developer%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Building+User-Centric%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%5D" alt="Typing SVG" />
 </p>
 
 <p align="center">
