@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm CodeShan 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi, I'm CodeShan 👋;Front-end Developer;Building User-Centric Experiences" alt="Typing Animation" />
+</p>
 <h3 align="center">Front-end Developer | Building User-Centric Web Experiences</h3>
 
 <p align="center">
