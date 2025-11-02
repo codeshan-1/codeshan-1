@@ -37,7 +37,7 @@ const CodeShan = {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma)" />
+  <img src="[https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma&perline=8](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma&perline=8)" />
 </p>
 
 ---
