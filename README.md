@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi, I'm CodeShan! 👋&fontSize=40&fontColor=fff&animation=twinkling" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=CodeShan%20%7C%20Front-end%20Developer&fontSize=40&fontColor=fff&animation=twinkling" alt="Header Banner">
 </p>
 
 <p align="center">
@@ -16,17 +16,23 @@
 
 <hr>
 
-<table>
-  <tr>
-    <td width="65%">
-      <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="CodeShan's GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&theme=tokyonight&hide_border=true" alt="CodeShan's Top Languages">
-    </td>
-    <td width="35%">
-      <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="CodeShan's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&theme=transparent&hide_border=true" alt="CodeShan's Top Languages">
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</p>
+
+<hr>
+
+### ⚡ My Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+< !-- Activity list will be injected here -->
+<!--RECENT_ACTIVITY:end-->
 
 <hr>
 
@@ -36,14 +42,3 @@
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke">
   </p>
 </details>
-
----
-
-### ⚡ My Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-2. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-3. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-4. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-5. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-<!--RECENT_ACTIVITY:end-->
