@@ -40,5 +40,6 @@
 ---
 
 ### ⚡ My Recent Activity
-<RECENT_ACTIVITY:start>
-<RECENT_ACTIVITY:end>
+<!--RECENT_ACTIVITY:start-->
+< !-- Activity list will be injected here -->
+<!--RECENT_ACTIVITY:end-->
