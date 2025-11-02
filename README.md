@@ -25,15 +25,15 @@ I'm a passionate Front-end Developer based in Egypt. I specialize in building re
 
 #### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="CodeShan's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&theme=dracula" alt="CodeShan's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="CodeShan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&theme=nord&hide_border=true" alt="CodeShan's Top Languages">
 </p>
 
 ---
 
 #### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 ---
