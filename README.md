@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi, I'm CodeShan 👋;Front-end Developer;Building User-Centric Experiences" alt="Typing Animation" />
+<img src="https://typingsvg.vercel.app/api/svg?width=500&lines=%5B%7B%22text%22%3A%22Hi%2C+I%27m+CodeShan+%F0%9F%91%8B%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Front-end+Developer%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Building+User-Centric+Experiences%22%2C%22font%22%3A%22Fira+Code%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%22700%22%7D%5D" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ const CodeShan = {
 
 ## 🧰 Tech Toolbox
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma)" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,vscode,linux,figma" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ const CodeShan = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)" width="48%" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&theme=tokyonight&hide_border=true&border_radius=10](https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&theme=tokyonight&hide_border=true&border_radius=10)" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
