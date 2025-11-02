@@ -9,15 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # محتاجين صلاحية الكتابة عشان نعدل الـ README
+      contents: write # دي مهمة عشان نسمحله يكتب في الـ README
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Update README with recent activity
-        uses: Readme-WorkFlows/recent-activity@v2.4.1
+        uses: Readme-WorkFlows/recent-activity@v2.4.1 # نفس الـ Action
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CONFIG_FILE: ".github/recent-activity-config.yml" # (هنعمل الملف ده كمان دقيقة)
-          MAX_LINES: 5 # عدد الأنشطة اللي هتظهر
+          # --- ده الجزء اللي اتصلح ---
+          GH_USERNAME: "codeshan-1" # ضفنا اسم المستخدم بتاعك
+          CONFIG_FILE: ".github/recent-activity-config.yml"
+          # شيلنا GITHUB_TOKEN و MAX_LINES من هنا
