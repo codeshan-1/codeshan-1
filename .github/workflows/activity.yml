@@ -9,16 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # دي مهمة عشان نسمحله يكتب في الـ README
+      contents: write # الصلاحية دي لسه مهمة
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Update README with recent activity
-        uses: Readme-WorkFlows/recent-activity@v2.4.1 # نفس الـ Action
+        uses: Readme-WorkFlows/recent-activity@v2.4.1
         with:
-          # --- ده الجزء اللي اتصلح ---
-          GH_USERNAME: "codeshan-1" # ضفنا اسم المستخدم بتاعك
+          # المدخلات دي صح زي ما هي
+          GH_USERNAME: "codeshan-1"
           CONFIG_FILE: ".github/recent-activity-config.yml"
-          # شيلنا GITHUB_TOKEN و MAX_LINES من هنا
+        
+        # --- ده السطر الجديد اللي بيحل المشكلة ---
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
