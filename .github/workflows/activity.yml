@@ -1,0 +1,23 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # بيتحدث كل 30 دقيقة
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # محتاجين صلاحية الكتابة عشان نعدل الـ README
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with recent activity
+        uses: Readme-WorkFlows/recent-activity@v2.4.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: ".github/recent-activity-config.yml" # (هنعمل الملف ده كمان دقيقة)
+          MAX_LINES: 5 # عدد الأنشطة اللي هتظهر
