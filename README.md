@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/codeshan"><img src="https://img.shields.io/badge/LinkedIn-CodeShan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://khamsat.com/user/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B4%D9%8A%D8%B4%D8%A7%D9%86"><img src="https://img.shields.io/badge/Khamsat-CodeShan-1DBF73?style=for-the-badge&logo=khamsat&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/codeshan"><img src="https://img.shields.io/badge/LinkedIn-Ahmed Sheshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://khamsat.com/user/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B4%D9%8A%D8%B4%D8%A7%D9%86"><img src="https://img.shields.io/badge/Khamsat-Ahmed Sheshan-1DBF73?style=for-the-badge&logo=khamsat&logoColor=white" /></a>
   <a href="https://www.instagram.com/codeshan.1/"><img src="https://img.shields.io/badge/Instagram-CodeShan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:codeshan10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
