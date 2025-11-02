@@ -1,48 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=CodeShan%20%7C%20Front-end%20Developer&fontSize=40&fontColor=fff&animation=twinkling" alt="Header Banner">
-</p>
+<h1 align="center">Hi, I'm CodeShan 👋</h1>
+<h3 align="center">Front-end Developer | Building User-Centric Web Experiences</h3>
 
 <p align="center">
-  I'm a passionate Front-end Developer based in Egypt, focused on building interactive and user-friendly web experiences.
+  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-CodeShan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[YOUR_KHAMSAT_URL]"><img src="https://img.shields.io/badge/Khamsat-CodeShan-1DBF73?style=for-the-badge&logo=khamsat&logoColor=white" /></a>
 </p>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const CodeShan = {
+  role: "Front-end Developer",
+  focus: "Responsive Web Applications",
+  stack: ["HTML", "CSS", "JavaScript", "React"],
+  current_mission: "Mastering the MERN Stack",
+  personal_projects: [
+    "Code Snippet Manager",
+    "Portfolio of Landing Pages"
+  ]
+};
+
+
+```
+## 🔥 My Current Focus
+
+- 🎯 Mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💼 Building a freelance-ready portfolio of **high-quality landing pages**
+- 👨‍💻 Building a **Code Snippet Manager** to practice advanced JS
+- 📚 Solidifying core JavaScript concepts for enterprise-level apps
+- 🚀 Preparing to launch my freelancing career on Khamsat & Mostaql
+
+---
+
+## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="[https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,react,nodejs,express,mongodb,git,vscode,linux,figma)" />
 </p>
 
-<hr>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="CodeShan's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&theme=transparent&hide_border=true" alt="CodeShan's Top Languages">
-</div>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="[https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)" width="48%" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&theme=tokyonight&hide_border=true&border_radius=10](https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&theme=tokyonight&hide_border=true&border_radius=10)" width="48%" />
 </p>
 
-<hr>
+---
 
 ### ⚡ My Recent Activity
-
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-2. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-3. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-4. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-5. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-<!--RECENT_ACTIVITY:end-->
+<!-- Activity list will be injected here -->
+<!--RECENT_ACTIVITY:end-->---
 
-<hr>
+## 💡 Motto
 
-<details align="center">
-  <summary>Click to see a random dev joke 😂</summary>
-  <p>
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke">
-  </p>
-</details>
+> **“Talk is cheap. Show me the code.”** — *Linus Torvalds*
