@@ -56,11 +56,6 @@ const CodeShan = {
 
 ## ⚡ My Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-2. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-3. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-4. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
-5. ⬆️ Pushed undefined commit(s) to [codeshan-1/codeshan-1](https://github.com/codeshan-1/codeshan-1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
