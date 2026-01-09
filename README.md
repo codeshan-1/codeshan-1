@@ -96,8 +96,10 @@
 <h2 align="center">📊 Performance Metrics</h2>
 <div align="center">
   <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&background=0d1117&ring=1eb8e4&fire=7565e3&currStreakLabel=1eb8e4&sideNums=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d" height="150"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&background=0d1117&ring=1eb8e4&fire=7565e3&currStreakLabel=1eb8e4&sideNums=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false" height="150" />
   
   <br/><br/>
   
