@@ -42,9 +42,7 @@
           </a>
         </td>
         <td width="40%" align="center">
-          <img src="https://img.shields.io/badge/Architecture-Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Graphics-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astroshan-logo.webp" width="180" style="border-radius: 50%; border: 3px solid #1eb8e4; box-shadow: 0 0 20px #1eb8e466;" />
         </td>
       </tr>
     </table>
