@@ -1,6 +1,6 @@
 <!-- HEADER & NAV -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1eb8e4&height=250&section=header&text=CodeShan&fontColor=101020&fontSize=70&fontAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1eb8e4&height=150&section=header&text=CodeShan&fontColor=101020&fontSize=70&fontAlignY=30&animation=fadeIn" width="100%" />
   
   <br/>
   
@@ -42,7 +42,7 @@
           </a>
         </td>
         <td width="40%" align="center">
-          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astroshan-logo.webp" width="180" style="border-radius: 50%; border: 3px solid #1eb8e4; box-shadow: 0 0 20px #1eb8e466;" />
+          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astroshan-logo.webp" width="400" height="200" style="border-radius: 50%; border: 3px solid #1eb8e4; box-shadow: 0 0 20px #1eb8e466;" />
         </td>
       </tr>
     </table>
@@ -91,7 +91,6 @@
 <!-- STATS & SNAKE -->
 <h2 align="center">📊 Contribution Trajectory</h2>
 <div align="center">
-  <p align="center" style="color: #a0a0a0;">(Visualizing Private & Public Activity)</p>
   
   <!-- Snake Animation -->
   <picture>
@@ -105,6 +104,6 @@
 <div align="center">
   <br/><br/>
   <a href="https://codeshan.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=100&section=footer&text=Available%20for%20Hire&fontColor=1eb8e4&fontSize=25" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1eb8e4&height=100&section=footer&text=Available%20for%20Hire&fontColor=101020&fontSize=25&fontAlignY=85" />
   </a>
 </div>
