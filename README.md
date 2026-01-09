@@ -34,7 +34,13 @@
             I architected and built <b>AstroShan</b> to solve the boredom of traditional coding tutorials. It transforms abstract concepts (DNS, HTTP, HTML) into <b>interactive 3D simulations</b>.
             <br/><br/>
             🛠️ <b>Tech Stack:</b> Next.js 16, React Three Fiber, MongoDB, Tailwind.<br/>
-            ✨ <b>Key Feature:</b> Gamified Learning Path with Real-time Code Validation.
+            <br/>
+            <b>🔥 Engineering Highlights:</b>
+            <ul align="left">
+              <li><b>Hybrid Sync Engine:</b> Seamless LocalStorage ↔ MongoDB data merging with conflict resolution.</li>
+              <li><b>Inclusive 3D Graphics:</b> High-performance WebGL experiences with custom Canvas fallback.</li>
+              <li><b>Gamified Learning:</b> Real-time Code Validation & Progress Tracking.</li>
+            </ul>
           </p>
           <br/>
           <a href="https://astroshan.vercel.app">
