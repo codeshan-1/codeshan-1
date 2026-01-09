@@ -91,15 +91,9 @@
 <br/>
 
 <!-- STATS & SNAKE -->
-<h2 align="center">📊 Performance Metrics</h2>
+<h2 align="center">📊 Contribution Trajectory</h2>
 <div align="center">
-  <!-- Stats Cards (Optimized) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&background=0d1117&ring=1eb8e4&fire=7565e3&currStreakLabel=1eb8e4&sideNums=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false" height="150" />
-  
-  <br/><br/>
+  <p align="center" style="color: #a0a0a0;">(Visualizing Private & Public Activity)</p>
   
   <!-- Snake Animation -->
   <picture>
