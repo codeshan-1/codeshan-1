@@ -53,20 +53,18 @@
 
 <br/>
 
-<!-- TECH ARSENAL -->
+<!-- TECH ARSENAL (Full Width) -->
 <h2 align="center">💻 Engineering Arsenal</h2>
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 style="color: #7565e3;">🎨 Creative Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,figma&theme=dark&perline=3" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 style="color: #3f54de;">⚙️ Robust Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,linux,vscode&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br/>
+  <h3 style="color: #7565e3;">🎨 Creative Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,figma&theme=dark&perline=9" />
+  
+  <br/><br/>
+  
+  <h3 style="color: #3f54de;">⚙️ Robust Backend & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,linux,vscode&theme=dark&perline=9" />
+</div>
 
 <br/>
 
@@ -95,8 +93,8 @@
 <!-- STATS & SNAKE -->
 <h2 align="center">📊 Performance Metrics</h2>
 <div align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d&count_private=true&include_all_commits=true" height="150"/>
+  <!-- Stats Cards (Optimized) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&bg_color=0d1117&title_color=1eb8e4&text_color=c9d1d9&icon_color=7565e3&border_color=30363d" height="150"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeshan-1&background=0d1117&ring=1eb8e4&fire=7565e3&currStreakLabel=1eb8e4&sideNums=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false" height="150" />
