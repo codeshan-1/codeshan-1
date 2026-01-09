@@ -1,6 +1,6 @@
 <!-- HEADER & NAV -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1eb8e4&height=150&section=header&text=CodeShan&fontColor=101020&fontSize=70&fontAlignY=30&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1eb8e4&height=150&section=header&text=CodeShan&fontColor=101020&fontSize=70&fontAlignY=40&animation=fadeIn" width="100%" />
   
   <br/>
   
