@@ -29,12 +29,12 @@
 
   <text x="270" y="92" fill="#22D3EE" font-size="42" font-family="Segoe UI, Arial" font-weight="700" filter="url(#glow)">About Me</text>
   <text x="270" y="134" fill="#E6F7FF" font-size="28" font-family="Segoe UI, Arial" font-weight="700">Ahmed Sheshan (CodeShan)</text>
-  <text x="270" y="172" fill="#C9D1D9" font-size="22" font-family="Segoe UI, Arial">Full-Stack Developer building product-grade Next.js systems</text>
-  <text x="270" y="204" fill="#C9D1D9" font-size="22" font-family="Segoe UI, Arial">with cinematic UX, performance-first architecture, and clean execution.</text>
-  <text x="270" y="246" fill="#8B949E" font-size="20" font-family="Segoe UI, Arial">Open to high-impact freelance collaborations (idea → production).</text>
+  <text x="270" y="172" fill="#EAF6FF" font-size="23" font-family="Segoe UI, Arial">Full-Stack Developer building product-grade Next.js systems</text>
+  <text x="270" y="204" fill="#EAF6FF" font-size="23" font-family="Segoe UI, Arial">with cinematic UX, performance-first architecture, and clean execution.</text>
+  <text x="270" y="246" fill="#AFC7D6" font-size="21" font-family="Segoe UI, Arial">Open to high-impact freelance collaborations (idea → production).</text>
 
-  <rect x="760" y="112" width="370" height="44" rx="10" fill="#132238" stroke="#1EB8E4" stroke-width="1.2"/>
-  <text x="778" y="141" fill="#9EEFFF" font-size="18" font-family="Segoe UI, Arial" font-weight="600">Focus: Next.js SaaS + Interactive EdTech</text>
-  <rect x="760" y="176" width="370" height="44" rx="10" fill="#132238" stroke="#22D3EE" stroke-width="1.2"/>
-  <text x="778" y="205" fill="#9EEFFF" font-size="18" font-family="Segoe UI, Arial" font-weight="600">Strength: UX + Architecture + Shipping</text>
+  <rect x="730" y="106" width="430" height="50" rx="12" fill="#0F2237" stroke="#1EB8E4" stroke-width="1.4"/>
+  <text x="750" y="138" fill="#E6F7FF" font-size="20" font-family="Segoe UI, Arial" font-weight="700">Focus: Next.js SaaS + Interactive EdTech</text>
+  <rect x="730" y="170" width="430" height="50" rx="12" fill="#0F2237" stroke="#22D3EE" stroke-width="1.4"/>
+  <text x="750" y="202" fill="#E6F7FF" font-size="20" font-family="Segoe UI, Arial" font-weight="700">Strength: UX + Architecture + Shipping</text>
 </svg>

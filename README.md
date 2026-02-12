@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo-neon-hero.svg?v=20260212" width="160" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo-neon-hero.svg?v=20260212c" width="520" />
 </div>
 
 <br/>
