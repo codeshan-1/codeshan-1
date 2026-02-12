@@ -21,6 +21,31 @@
 
 <br/>
 
+<!-- ABOUT ME -->
+<h2 align="center">🧠 About Me</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/developer.webp" width="86" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo.webp" width="54" />
+</div>
+<p align="center">
+  I’m Ahmed Sheshan (CodeShan), a Full-Stack Developer building product-grade Next.js systems with cinematic UX, performance-first architecture, and clean execution.
+  <br/>
+  I’m currently open to high-impact freelance collaborations where I can lead both the user experience and the engineering quality from idea to production.
+</p>
+
+<br/>
+
+<!-- CURRENT WORK -->
+<h2 align="center">🚧 What I’m Working On</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/AstroShan-Designing_the_remaining_course_modules_%26_learning_paths-1eb8e4?style=for-the-badge&labelColor=101020" />
+  <br/>
+  <img src="https://img.shields.io/badge/FlowShan-Building_team_workspaces_roles_%26_collaborative_flows-22D3EE?style=for-the-badge&labelColor=101020" />
+</div>
+
+<br/>
+
 <!-- FEATURED: ASTROSHAN -->
 <div align="center">
   <div style="border: 2px solid #1eb8e4; border-radius: 20px; padding: 20px; background-color: #0d1117;">
@@ -129,6 +154,10 @@
   &nbsp;&nbsp;
   <a href="mailto:codeshan10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/codeshan">
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/codeshan.1/">
