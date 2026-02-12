@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo-neon-hero.svg" width="160" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo-neon-hero.svg?v=20260212" width="160" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 <!-- ABOUT ME -->
 <h2 align="center">🧠 About Me</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/about-neon-card.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/about-neon-card.svg?v=20260212" width="100%" />
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 
 <!-- FEATURED: ASTROSHAN -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astro-neon-card.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astro-neon-card.svg?v=20260212" width="100%" />
 </div>
 <div align="center">
   <a href="https://astroshan.vercel.app">
@@ -61,7 +61,7 @@
 
 <!-- FEATURED: FLOWSHAN -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flow-neon-card.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flow-neon-card.svg?v=20260212" width="100%" />
 </div>
 <div align="center">
   <a href="https://flowshan.vercel.app">
