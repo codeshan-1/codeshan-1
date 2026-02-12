@@ -110,7 +110,7 @@ function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
   const height = 360;
   const labelX = 22;
   const barX = 206;
-  const barW = 340;
+  const barW = 360;
   const barH = 18;
   const rowGap = 44;
   const rowsCount = topItems.length;
@@ -127,7 +127,7 @@ function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
       const p = percent.toFixed(1);
       return `
   <text x="${labelX}" y="${y + 14}" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">${esc(item.name)}</text>
-  <text x="${width - 20}" y="${y + 14}" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700" text-anchor="end">${p}%</text>
+  <text x="${barX + barW + 12}" y="${y + 14}" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">${p}%</text>
   <rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="8" fill="#111a2a" />
   <rect x="${barX}" y="${y}" width="${fillW}" height="${barH}" rx="8" fill="url(#neonBar)" />`;
     })
@@ -140,7 +140,7 @@ function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
       <stop stop-color="#0D1117"/>
       <stop offset="1" stop-color="#0F1726"/>
     </linearGradient>
-    <linearGradient id="neonBar" x1="206" y1="0" x2="546" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="neonBar" x1="206" y1="0" x2="566" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1EB8E4"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
