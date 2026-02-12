@@ -11,8 +11,11 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
     - main
+
+concurrency:
+  group: snake-output-branch
+  cancel-in-progress: true
 
 jobs:
   generate:
