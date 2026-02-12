@@ -8,15 +8,16 @@
     <img src="https://img.shields.io/badge/Portfolio-codeshan-7565e3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101020" height="35" />
   </a>
   <a href="https://astroshan.vercel.app">
-    <img src="https://img.shields.io/badge/Website-AstroShan-1eb8e4?style=for-the-badge&logo=shuttle&logoColor=101020&labelColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Platform-AstroShan-1eb8e4?style=for-the-badge&logo=appwrite&logoColor=101020&labelColor=white" height="35" />
   </a>
+
   <a href="mailto:codeshan10@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Hire_Me-3f54de?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101020" height="35" />
   </a>
 
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1EB8E4&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+specializing+in+Next.js;Building+Complex+Educational+Platforms;Turning+Concepts+into+Interactive+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1EB8E4&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+specializing+in+Next.js;Building+Complex+SAAS+%26+Educational+Platforms;Cinematic+UX+%E2%80%A2+Glassmorphism+%E2%80%A2+Performance" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -46,9 +47,53 @@
           <a href="https://astroshan.vercel.app">
             <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-1eb8e4?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="40" />
           </a>
+          <a href="https://github.com/codeshan-1/AstroShan-CaseStudy">
+            <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=1eb8e4" height="40" />
+          </a>
         </td>
         <td width="40%" align="center">
           <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astroshan-logo.webp" width="400" height="200" style="border-radius: 50%; border: 3px solid #1eb8e4; box-shadow: 0 0 20px #1eb8e466;" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<br/>
+
+<!-- FEATURED: FLOWSHAN -->
+<div align="center">
+  <div style="border: 2px solid #22D3EE; border-radius: 20px; padding: 20px; background-color: #0d1117;">
+    <h2 style="color: #22D3EE;">🌊 FlowShan: The Workflow Management Hub</h2>
+    <table border="0" width="100%">
+      <tr>
+        <td width="40%" align="center">
+          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flowshan-logo.webp" width="180" style="border-radius: 20px; border: 3px solid #22D3EE; box-shadow: 0 0 20px #22D3EE66;" />
+        </td>
+        <td width="60%">
+          <p align="right">
+            <strong>A Multi-Tenant SaaS for Agencies & Freelancers.</strong>
+            <br/><br/>
+            <b>FlowShan</b> is a cinematic project management tool focusing on speed and fluid transitions. It bridges the gap between local-first guest usage and cloud-synced team collaboration.
+            <br/><br/>
+            🛠️ <b>Tech Stack:</b> Next.js 16, Prisma (PostgreSQL), Zustand, Sonner.<br/>
+            <br/>
+            <b>🚀 Engineering Highlights:</b>
+            <ul align="right">
+              <li><b>State-Linked Transitions:</b> Complex layout morphing using LayoutGroup.</li>
+              <li><b>Hybrid Persistence:</b> 5s Undo/Restore window for non-destructive soft-deletes.</li>
+              <li><b>Smart Notify:</b> Multi-channel (Telegram/Email/Push) notification dispatch engine.</li>
+            </ul>
+          </p>
+          <br/>
+          <div align="right">
+            <a href="https://flowshan.vercel.app">
+              <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-22D3EE?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="40" />
+            </a>
+            <a href="https://github.com/codeshan-1/FlowShan-CaseStudy">
+              <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=22D3EE" height="40" />
+            </a>
+          </div>
         </td>
       </tr>
     </table>
