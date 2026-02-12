@@ -1,0 +1,36 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FlowShan Project Card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0F1726"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="28" y1="20" x2="1170" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1EB8E4"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="404" rx="24" fill="url(#bg)" stroke="url(#ring)" stroke-width="2.2"/>
+  <rect x="18" y="18" width="1164" height="384" rx="20" stroke="#66E6FF" stroke-opacity="0.25" stroke-width="1.2"/>
+
+  <text x="34" y="70" fill="#22D3EE" font-size="40" font-family="Segoe UI, Arial" font-weight="700" filter="url(#glow)">FlowShan: The Workflow Management Hub</text>
+  <text x="34" y="112" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">A Multi-Tenant SaaS for Agencies &amp; Freelancers.</text>
+  <text x="34" y="150" fill="#C9D1D9" font-size="20" font-family="Segoe UI, Arial">FlowShan is a cinematic project management system focused on speed and fluid transitions.</text>
+  <text x="34" y="178" fill="#C9D1D9" font-size="20" font-family="Segoe UI, Arial">It bridges local-first guest usage with cloud-synced team collaboration.</text>
+
+  <text x="34" y="228" fill="#9EEFFF" font-size="20" font-family="Segoe UI, Arial" font-weight="700">Tech: Next.js 16, Prisma (PostgreSQL), Zustand, Sonner</text>
+  <text x="34" y="266" fill="#E6F7FF" font-size="20" font-family="Segoe UI, Arial" font-weight="700">Highlights</text>
+  <text x="34" y="296" fill="#C9D1D9" font-size="18" font-family="Segoe UI, Arial">• State-Linked Transitions: Complex layout morphing with LayoutGroup</text>
+  <text x="34" y="324" fill="#C9D1D9" font-size="18" font-family="Segoe UI, Arial">• Hybrid Persistence: 5s undo/restore for non-destructive soft-deletes</text>
+  <text x="34" y="352" fill="#C9D1D9" font-size="18" font-family="Segoe UI, Arial">• Smart Notify: Telegram / Email / Push multi-channel engine</text>
+
+  <ellipse cx="930" cy="224" rx="190" ry="146" fill="#0F1829" stroke="url(#ring)" stroke-width="3" filter="url(#glow)"/>
+  <image href="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flowshan-logo.webp" x="760" y="132" width="340" height="184" preserveAspectRatio="xMidYMid meet"/>
+</svg>

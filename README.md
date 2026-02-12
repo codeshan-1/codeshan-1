@@ -21,107 +21,55 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo-neon-hero.svg" width="160" />
+</div>
+
+<br/>
+
 <!-- ABOUT ME -->
 <h2 align="center">🧠 About Me</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/developer.webp" width="86" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/logo.webp" width="54" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/about-neon-card.svg" width="100%" />
 </div>
-<p align="center">
-  I’m Ahmed Sheshan (CodeShan), a Full-Stack Developer building product-grade Next.js systems with cinematic UX, performance-first architecture, and clean execution.
-  <br/>
-  I’m currently open to high-impact freelance collaborations where I can lead both the user experience and the engineering quality from idea to production.
-</p>
 
 <br/>
 
 <!-- CURRENT WORK -->
 <h2 align="center">🚧 What I’m Working On</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/AstroShan-Designing_the_remaining_course_modules_%26_learning_paths-1eb8e4?style=for-the-badge&labelColor=101020" />
-  <br/>
-  <img src="https://img.shields.io/badge/FlowShan-Building_team_workspaces_roles_%26_collaborative_flows-22D3EE?style=for-the-badge&labelColor=101020" />
+  <img src="https://img.shields.io/badge/AstroShan-Remaining_Courses-1eb8e4?style=for-the-badge&labelColor=101020" />
+  <img src="https://img.shields.io/badge/FlowShan-Team_Collaboration_Mode-22D3EE?style=for-the-badge&labelColor=101020" />
 </div>
 
 <br/>
 
 <!-- FEATURED: ASTROSHAN -->
 <div align="center">
-  <div style="border: 2px solid #1eb8e4; border-radius: 20px; padding: 20px; background-color: #0d1117;">
-    <h2 style="color: #1eb8e4;">🌟 AstroShan: The Interactive Academy</h2>
-    <table border="0" width="100%">
-      <tr>
-        <td width="60%">
-          <p align="left">
-            <strong>A Next-Gen Educational Platform for Web Development.</strong>
-            <br/><br/>
-            I architected and built <b>AstroShan</b> to solve the boredom of traditional coding tutorials. It transforms abstract concepts (DNS, HTTP, HTML) into <b>interactive 3D simulations</b>.
-            <br/><br/>
-            🛠️ <b>Tech Stack:</b> Next.js 16, React Three Fiber, MongoDB, Tailwind.<br/>
-            <br/>
-            <b>🔥 Engineering Highlights:</b>
-            <ul align="left">
-              <li><b>Hybrid Sync Engine:</b> Seamless LocalStorage ↔ MongoDB data merging with conflict resolution.</li>
-              <li><b>Inclusive 3D Graphics:</b> High-performance WebGL experiences with custom Canvas fallback.</li>
-              <li><b>Gamified Learning:</b> Real-time Code Validation & Progress Tracking.</li>
-            </ul>
-          </p>
-          <br/>
-          <a href="https://astroshan.vercel.app">
-            <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-1eb8e4?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="40" />
-          </a>
-          <a href="https://github.com/codeshan-1/AstroShan-CaseStudy">
-            <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=1eb8e4" height="40" />
-          </a>
-        </td>
-        <td width="40%" align="center">
-          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astroshan-logo.webp" width="400" height="200" style="border-radius: 50%; border: 3px solid #1eb8e4; box-shadow: 0 0 20px #1eb8e466;" />
-        </td>
-      </tr>
-    </table>
-  </div>
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/astro-neon-card.svg" width="100%" />
+</div>
+<div align="center">
+  <a href="https://astroshan.vercel.app">
+    <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-1eb8e4?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="38" />
+  </a>
+  <a href="https://github.com/codeshan-1/AstroShan-CaseStudy">
+    <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=1eb8e4" height="38" />
+  </a>
 </div>
 
 <br/>
 
 <!-- FEATURED: FLOWSHAN -->
 <div align="center">
-  <div style="border: 2px solid #22D3EE; border-radius: 20px; padding: 20px; background-color: #0d1117;">
-    <h2 style="color: #22D3EE;">🌊 FlowShan: The Workflow Management Hub</h2>
-    <table border="0" width="100%">
-      <tr>
-        <td width="60%">
-          <p align="left">
-            <strong>A Multi-Tenant SaaS for Agencies & Freelancers.</strong>
-            <br/><br/>
-            <b>FlowShan</b> is a cinematic project management tool focusing on speed and fluid transitions. It bridges the gap between local-first guest usage and cloud-synced team collaboration.
-            <br/><br/>
-            🛠️ <b>Tech Stack:</b> Next.js 16, Prisma (PostgreSQL), Zustand, Sonner.<br/>
-            <br/>
-            <b>🚀 Engineering Highlights:</b>
-            <ul align="left">
-              <li><b>State-Linked Transitions:</b> Complex layout morphing using LayoutGroup.</li>
-              <li><b>Hybrid Persistence:</b> 5s Undo/Restore window for non-destructive soft-deletes.</li>
-              <li><b>Smart Notify:</b> Multi-channel (Telegram/Email/Push) notification dispatch engine.</li>
-            </ul>
-          </p>
-          <br/>
-          <div align="left">
-            <a href="https://flowshan.vercel.app">
-              <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-22D3EE?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="40" />
-            </a>
-            <a href="https://github.com/codeshan-1/FlowShan-CaseStudy">
-              <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=22D3EE" height="40" />
-            </a>
-          </div>
-        </td>
-        <td width="40%" align="center">
-          <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flowshan-logo.webp" width="400" style="border-radius: 50%; border: 3px solid #22D3EE; box-shadow: 0 0 20px #22D3EE66;" />
-        </td>
-      </tr>
-    </table>
-  </div>
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/main/flow-neon-card.svg" width="100%" />
+</div>
+<div align="center">
+  <a href="https://flowshan.vercel.app">
+    <img src="https://img.shields.io/badge/👉_LIVE_DEMO-Visit_Platform-22D3EE?style=for-the-badge&logo=vercel&logoColor=101020&labelColor=white" height="38" />
+  </a>
+  <a href="https://github.com/codeshan-1/FlowShan-CaseStudy">
+    <img src="https://img.shields.io/badge/📝_CASE_STUDY-Read_Story-white?style=for-the-badge&logo=github&logoColor=101020&labelColor=22D3EE" height="38" />
+  </a>
 </div>
 
 <br/>
