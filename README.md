@@ -145,9 +145,19 @@
   <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-blue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeshan-1/codespan-1/output/github-contribution-grid-snake-blue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-blue.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/github-contribution-grid-snake-blue.svg" width="100%">
   </picture>
+  
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codeshan-1&show_icons=true&hide_border=true&title_color=1EB8E4&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=codeshan-1&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=1EB8E4&currStreakLabel=22D3EE&sideNums=C9D1D9&currStreakNum=E6F7FF&dates=8B949E&sideLabels=8B949E" width="49%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshan-1&layout=compact&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800" width="49%" />
 </div>
 
 <!-- FOOTER -->
