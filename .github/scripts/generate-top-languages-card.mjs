@@ -106,14 +106,14 @@ async function collectLanguages() {
 }
 
 function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
-  const width = 760;
-  const height = 300;
-  const labelX = 34;
-  const barX = 210;
-  const barW = 380;
-  const barH = 14;
-  const firstY = 82;
-  const rowGap = 34;
+  const width = 640;
+  const height = 320;
+  const labelX = 22;
+  const barX = 186;
+  const barW = 420;
+  const barH = 16;
+  const firstY = 94;
+  const rowGap = 44;
 
   const rows = topItems
     .map((item, idx) => {
@@ -122,21 +122,21 @@ function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
       const y = firstY + idx * rowGap;
       const p = percent.toFixed(1);
       return `
-  <text x="${labelX}" y="${y + 11}" fill="#E6F7FF" font-size="18" font-family="Segoe UI, Arial" font-weight="700">${esc(item.name)}</text>
-  <text x="${barX + barW + 16}" y="${y + 11}" fill="#C9D1D9" font-size="16" font-family="Segoe UI, Arial" font-weight="600">${p}%</text>
-  <rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="7" fill="#111a2a" />
-  <rect x="${barX}" y="${y}" width="${fillW}" height="${barH}" rx="7" fill="url(#neonBar)" />`;
+  <text x="${labelX}" y="${y + 13}" fill="#E6F7FF" font-size="20" font-family="Segoe UI, Arial" font-weight="700">${esc(item.name)}</text>
+  <text x="${barX + barW + 8}" y="${y + 13}" fill="#C9D1D9" font-size="16" font-family="Segoe UI, Arial" font-weight="700" text-anchor="end">${p}%</text>
+  <rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="8" fill="#111a2a" />
+  <rect x="${barX}" y="${y}" width="${fillW}" height="${barH}" rx="8" fill="url(#neonBar)" />`;
     })
     .join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top Languages">
   <defs>
-    <linearGradient id="cardBg" x1="0" y1="0" x2="760" y2="300" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cardBg" x1="0" y1="0" x2="640" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D1117"/>
       <stop offset="1" stop-color="#0F1726"/>
     </linearGradient>
-    <linearGradient id="neonBar" x1="210" y1="0" x2="590" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="neonBar" x1="186" y1="0" x2="606" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1EB8E4"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
@@ -149,10 +149,10 @@ function buildSvg(topItems, totalBytes, privateRepos, publicRepos) {
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="758" height="298" rx="18" fill="url(#cardBg)" stroke="#1EB8E4" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="318" rx="16" fill="url(#cardBg)" stroke="#1EB8E4" stroke-width="2"/>
 
-  <text x="34" y="42" fill="#22D3EE" font-size="30" font-family="Segoe UI, Arial" font-weight="700" filter="url(#glow)">Top Languages (All Repos)</text>
-  <text x="34" y="64" fill="#8B949E" font-size="14" font-family="Segoe UI, Arial">Public: ${publicRepos}  |  Private: ${privateRepos}</text>
+  <text x="22" y="44" fill="#22D3EE" font-size="30" font-family="Segoe UI, Arial" font-weight="700" filter="url(#glow)">Top Languages (All Repos)</text>
+  <text x="22" y="70" fill="#8B949E" font-size="16" font-family="Segoe UI, Arial">Public: ${publicRepos} | Private: ${privateRepos}</text>
 
 ${rows}
 </svg>`;
@@ -164,7 +164,7 @@ async function main() {
     .map(([name, bytes]) => ({ name, bytes }))
     .sort((a, b) => b.bytes - a.bytes);
 
-  const topItems = sorted.slice(0, 6);
+  const topItems = sorted.slice(0, 5);
   const totalBytes = sorted.reduce((sum, item) => sum + item.bytes, 0);
 
   const svg = buildSvg(topItems, totalBytes, privateRepos, publicRepos);

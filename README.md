@@ -153,7 +153,7 @@
 
   <!-- GitHub Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeshan-1&theme=github_dark" width="49%" />
-  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/top-languages-neon.svg?v=4" width="49%" />
+  <img src="https://raw.githubusercontent.com/codeshan-1/codeshan-1/output/top-languages-neon.svg?v=6" width="49%" />
   
   <br/>
   
