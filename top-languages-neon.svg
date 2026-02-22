@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top Languages">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="640" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0F1726"/>
+    </linearGradient>
+    <linearGradient id="neonBar" x1="206" y1="0" x2="566" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1EB8E4"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="638" height="358" rx="16" fill="url(#cardBg)" stroke="#1EB8E4" stroke-width="2"/>
+
+  <text x="22" y="46" fill="#22D3EE" font-size="32" font-family="Segoe UI, Arial" font-weight="700" filter="url(#glow)">Top Languages (All Repos)</text>
+  <text x="22" y="74" fill="#8B949E" font-size="17" font-family="Segoe UI, Arial">Public: 4 | Private: 8</text>
+
+
+  <text x="22" y="141" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">TypeScript</text>
+  <text x="578" y="141" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">91.2%</text>
+  <rect x="206" y="127" width="360" height="18" rx="8" fill="#111a2a" />
+  <rect x="206" y="127" width="328" height="18" rx="8" fill="url(#neonBar)" />
+
+  <text x="22" y="185" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">JavaScript</text>
+  <text x="578" y="185" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">4.4%</text>
+  <rect x="206" y="171" width="360" height="18" rx="8" fill="#111a2a" />
+  <rect x="206" y="171" width="16" height="18" rx="8" fill="url(#neonBar)" />
+
+  <text x="22" y="229" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">CSS</text>
+  <text x="578" y="229" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">2.5%</text>
+  <rect x="206" y="215" width="360" height="18" rx="8" fill="#111a2a" />
+  <rect x="206" y="215" width="9" height="18" rx="8" fill="url(#neonBar)" />
+
+  <text x="22" y="273" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">HTML</text>
+  <text x="578" y="273" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">1.8%</text>
+  <rect x="206" y="259" width="360" height="18" rx="8" fill="#111a2a" />
+  <rect x="206" y="259" width="7" height="18" rx="8" fill="url(#neonBar)" />
+
+  <text x="22" y="317" fill="#E6F7FF" font-size="24" font-family="Segoe UI, Arial" font-weight="700">Mermaid</text>
+  <text x="578" y="317" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Arial" font-weight="700">0.1%</text>
+  <rect x="206" y="303" width="360" height="18" rx="8" fill="#111a2a" />
+  <rect x="206" y="303" width="2" height="18" rx="8" fill="url(#neonBar)" />
+</svg>
